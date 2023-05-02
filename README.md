@@ -4,15 +4,16 @@
 
 ## A passionate Full-Stack Developer, located in California
   
-I am intrigued by the idea of utilizing technology to develop products that can make a significant difference in people's lives. 
+I am inspired by the idea of utilizing technology to develop products that can make a significant difference in people's lives. 
 
 If you are interested in having a conversation, please do not hesitate to contact me.
  
   </div>
   
- <div align="center">
-  
+<div align="center">
+    
 ## Skills :computer:
+
   
 ### Front-End 
   
@@ -34,9 +35,8 @@ If you are interested in having a conversation, please do not hesitate to contac
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   
-  
-  </div>
-  
+ </div>
+ 
  <div align="center">
   
 ## Most Used Languages :speech_balloon:
@@ -44,6 +44,18 @@ If you are interested in having a conversation, please do not hesitate to contac
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonykhong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
+ 
+  <div align="center">
+  
+## Let's connect! :calling:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonykhong956/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  
+  
+   </div>
+  
+
   
 <!--
 **anthonykhong/anthonykhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
