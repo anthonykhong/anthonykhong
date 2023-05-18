@@ -41,7 +41,7 @@ If you are interested in having a conversation, please do not hesitate to contac
   
 ## Most Used Languages :speech_balloon:
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonykhong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonykhon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
  
