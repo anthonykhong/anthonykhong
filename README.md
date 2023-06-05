@@ -8,7 +8,7 @@ I am inspired by the idea of utilizing technology to develop products that can m
 
 If you are interested in having a conversation, please do not hesitate to contact me.
   
-   <img src="https://res.cloudinary.com/diw7vmgum/image/upload/v1684889637/giphy_x5ddru.gif" height="200" />
+
  
   </div>
   
