@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi 👋, I'm Anthony
+# Hi 👋, I'm Anthony Khong
 
 ## A passionate Full-Stack Developer, located in California
   
