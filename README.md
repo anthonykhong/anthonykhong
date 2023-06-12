@@ -2,7 +2,7 @@
   
 # Hi 👋, I'm Anthony Khong
 
-## A passionate Full-Stack Developer, located in California
+## A passionate Full-Stack Developer, located in California.
   
 I am inspired by the idea of utilizing technology to develop products that can make a significant difference in people's lives. 
 
